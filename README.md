@@ -78,6 +78,17 @@ I’m passionate about **CI/CD automation**, **Infrastructure as Code (IaC)**, a
 
 ---
 
+### 🏅 Certifications & Learning
+
+I’m continuously expanding my DevOps and Cloud skills through hands-on courses and certifications:  
+
+- **DevOps Professional Certificate – GUVI**  
+- **KodeKloud Learning Platform – Ongoing Courses**  
+
+📂 All my certificates are stored here: [Certificates Repository](https://github.com/danushvithiyarth/Certificates.git)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
