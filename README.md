@@ -88,16 +88,15 @@ I’m continuously expanding my DevOps and Cloud skills through hands-on courses
 📂 All my certificates are stored here: [Certificates Repository](https://github.com/danushvithiyarth/Certificates.git)
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danushvithiyarth&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushvithiyarth&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=danushvithiyarth&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushvithiyarth&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danushvithiyarth&theme=tokyonight" alt="GitHub streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danushvithiyarth&theme=tokyonight"/>
 </p>
 
 ---
