@@ -90,11 +90,11 @@ I’m continuously expanding my DevOps and Cloud skills through hands-on courses
 ---
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danushvithiyarth&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danushvithiyarth&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danushvithiyarth&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danushvithiyarth&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=danushvithiyarth&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=danushvithiyarth&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ---
 
