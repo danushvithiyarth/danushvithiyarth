@@ -12,12 +12,21 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/danushvithiyarth/Certificates">
+    <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified" />
+  </a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
 
-I’m a **DevOps and Cloud Engineer** with practical experience in automating cloud and hybrid infrastructure using **AWS, Azure, and on-prem systems**.  
-I’m passionate about **CI/CD automation**, **Infrastructure as Code (IaC)**, and **cloud-native deployments**.  
+I’m a **DevOps and Cloud Engineer** with hands-on experience automating cloud and hybrid infrastructure using **AWS, Azure, and on-prem systems**.  
+
+I am an **AWS Certified Cloud Practitioner**, with a strong foundation in cloud concepts, security, networking, and cost-aware architecture.
+
+I’m passionate about **CI/CD automation**, **Infrastructure as Code (IaC)**, and **cloud-native deployments**.
 
 💡 I enjoy creating scalable, secure, and observable systems — blending **Terraform**, **Jenkins**, **Docker**, and **Kubernetes** to deliver high-quality automation.  
 🌱 Currently seeking a **Junior DevOps Engineer** or **Cloud Engineer** role in the EU region.  
@@ -81,12 +90,17 @@ I’m passionate about **CI/CD automation**, **Infrastructure as Code (IaC)**, a
 
 ### 🏅 Certifications & Learning
 
-I’m continuously expanding my DevOps and Cloud skills through hands-on courses and certifications:  
+I’m continuously expanding my DevOps and Cloud skills through hands-on courses and certifications:
 
-- **DevOps Professional Certificate – GUVI**  
-- **KodeKloud Learning Platform – Ongoing Courses**  
+- **AWS Certified Cloud Practitioner (CLF-C02)** — Amazon Web Services  
+  *(Valid: Jan 2026 – Jan 2029)*
 
-📂 All my certificates are stored here: [Certificates Repository](https://github.com/danushvithiyarth/Certificates.git)
+- **DevOps Professional Certificate – GUVI (HCL Group)**
+  
+- **KodeKloud Learning Platform – Ongoing DevOps & Cloud Courses**
+
+📂 All my certificates are stored here:  
+👉 [Certificates Repository](https://github.com/danushvithiyarth/Certificates.git)
 
 ---
 ### 📊 GitHub Stats
