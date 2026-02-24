@@ -1,7 +1,7 @@
 <!-- Profile README for GitHub: danushvithiyarth -->
 
 <h1 align="center">Hi 👋, I'm Danush Vithiyarth Jaiganesh</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud & CI/CD Enthusiast | AWS • Kubernetes • Terraform • ArgoCD</h3>
+<h3 align="center">🚀 DevOps Engineer | Certified Kubernetes Application Developer | Cloud & CI/CD Enthusiast | AWS • Kubernetes • Terraform • ArgoCD</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danush-vithiyarth-a6a704265/" target="_blank">
@@ -22,15 +22,16 @@
 
 ### 👨‍💻 About Me
 
-I’m a **DevOps and Cloud Engineer** with hands-on experience automating cloud and hybrid infrastructure using **AWS, Azure, and on-prem systems**.  
+I’m a DevOps and Cloud Engineer with hands-on experience automating cloud and hybrid infrastructure across AWS, Azure, and on-prem environments.
 
-I am an **AWS Certified Cloud Practitioner**, with a strong foundation in cloud concepts, security, networking, and cost-aware architecture.
+I hold both the AWS Certified Cloud Practitioner and the Certified Kubernetes Application Developer (CKAD) certifications, demonstrating practical expertise in cloud fundamentals, security, networking, IAM governance, and Kubernetes-based application deployments.
 
-I’m passionate about **CI/CD automation**, **Infrastructure as Code (IaC)**, and **cloud-native deployments**.
+I’m passionate about CI/CD automation, Infrastructure as Code (IaC), cloud-native platforms, and building secure, scalable systems.
 
-💡 I enjoy creating scalable, secure, and observable systems — blending **Terraform**, **Jenkins**, **Docker**, and **Kubernetes** to deliver high-quality automation.  
-🌱 Currently seeking a **Junior DevOps Engineer** or **Cloud Engineer** role in the EU region.  
-✨ Highly enthusiastic and always learning — continuously improving my DevOps and Cloud skillset.
+💡 I enjoy designing reliable infrastructure using Terraform, automating pipelines with Jenkins & GitHub Actions, and deploying containerized workloads with Docker & Kubernetes.
+🔐 Strong focus on DevSecOps practices, observability, and production-ready architectures.
+🌱 Currently seeking a Junior DevOps, Cloud, or Platform Engineering role in the EU region.
+✨ Continuously learning and improving — committed to building resilient, automated, and secure cloud systems.
 
 ---
 
@@ -92,12 +93,15 @@ I’m passionate about **CI/CD automation**, **Infrastructure as Code (IaC)**, a
 
 I’m continuously expanding my DevOps and Cloud skills through hands-on courses and certifications:
 
-- **AWS Certified Cloud Practitioner (CLF-C02)** — Amazon Web Services  
-  *(Valid: Jan 2026 – Jan 2029)*
+Certified Kubernetes Application Developer (CKAD) — The Linux Foundation
+(Issued: Feb 23, 2026 – Valid until: Feb 23, 2028)
 
-- **DevOps Professional Certificate – GUVI (HCL Group)**
-  
-- **KodeKloud Learning Platform – Ongoing DevOps & Cloud Courses**
+AWS Certified Cloud Practitioner (CLF-C02) — Amazon Web Services
+(Valid: Jan 2026 – Jan 2029)
+
+DevOps Professional Certificate – GUVI (HCL Group)
+
+KodeKloud Learning Platform – Ongoing DevOps & Cloud Courses
 
 📂 All my certificates are stored here:  
 👉 [Certificates Repository](https://github.com/danushvithiyarth/Certificates.git)
