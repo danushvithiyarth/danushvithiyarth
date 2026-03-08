@@ -18,6 +18,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/danushvithiyarth/Certificates">
+    <img src="https://img.shields.io/badge/Kubernetes-CKAD-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKAD Certified" />
+  </a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
